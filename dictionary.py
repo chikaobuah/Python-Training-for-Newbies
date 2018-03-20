@@ -5,3 +5,4 @@ words["BRB"] = "Be Right Back"
 
 print (words["BMP"])
 print (words["BRB"])
+print(words)
